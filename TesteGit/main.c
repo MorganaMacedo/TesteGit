@@ -18,9 +18,11 @@
  * 
  */
 int main(int argc, char** argv) {
-    printf("algo");
-    printf("algo mais");
-    printf("funciona");
+    printf("algo,");
+    printf("algo mais");   
+    printf(" talvez");
+    printf(" funcione!");
+
     
     return (EXIT_SUCCESS);
 }
