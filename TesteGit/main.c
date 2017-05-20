@@ -19,7 +19,7 @@
  */
 int main(int argc, char** argv) {
     printf("algo,");
-    printf("algo mais");   
+    printf(" algo mais");   
     printf(" talvez");
     printf(" funcione!");
 
